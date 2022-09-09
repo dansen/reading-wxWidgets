@@ -421,3 +421,13 @@
 /utils/wxrc/wxrc_vc[789].sln
 
 /3rdparty/webview2
+samples/minimal/.vs/minimal_vc17/v17/.suo
+samples/minimal/.vs/minimal_vc17/FileContentIndex/read.lock
+*.vsidx
+samples/minimal/.vs/minimal_vc17/v17/Browse.VC.db
+*.ipch
+samples/minimal/.vs/minimal_vc17/v17/Solution.VC.db
+*.db-shm
+samples/minimal/minimal.vcxproj.user
+*.db-wal
+*.opendb
